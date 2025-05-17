@@ -6,6 +6,8 @@ int main(){
 	return 0;
 <<<<<<< HEAD
 	// yumita改动
+  !
+  // mcy !改动a
 }
 =======
   // mcy改动
