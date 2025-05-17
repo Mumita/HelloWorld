@@ -5,6 +5,5 @@ int main(){
 	int size = sizeof(arr)/sizeof(arr[0]);
 	return 0;
 	// yumita改动
-  // mcy !改动a
-}
+  // mcy !改动
 }
